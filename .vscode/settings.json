@@ -1,0 +1,5 @@
+{
+  "particle.firmwareVersion": "2.0.0-rc.3",
+  "particle.targetPlatform": "argon",
+  "particle.targetDevice": "argon_v2"
+}
