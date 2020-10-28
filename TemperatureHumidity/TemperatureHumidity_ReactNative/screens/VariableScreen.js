@@ -33,7 +33,7 @@ const Variable = (props) => {
 
 export default class VariableScreen extends React.Component {
   state = {
-    variables: [{id: id++, device: "argon_v2", varName: "Temp", val: 0}],
+    variables: [],
     isCreating: false,
     deviceName: '',
     variableName: '',
